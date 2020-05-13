@@ -1,0 +1,1 @@
+30 öğrencinin her biri için verilen vize1, vize2, final notlarına göre ortalamaları, harf notları, ortalama istatistikleri, harf notu istatistiklerinin hesabını yapan kodu yazdım

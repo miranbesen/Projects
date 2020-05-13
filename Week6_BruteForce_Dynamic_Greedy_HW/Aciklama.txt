@@ -1,0 +1,11 @@
+(2,15) Ahmet in bir kitaptan okuduğu sayfaları söylüyor. Sayfa 2 den 15 kadar okumuş, 2,3,4,… 14,15. sayfalar. Benzer şekilde Mehmet (10,95) için 10,11,12 … 95 sayfaları okumuş. Ahmet ile Mehmet in okuduğu sayfalarda ortak olan sayfalar var. (10,95) yerine (16,95) olsaydı ikisi aynı sayfa/sayfaları okumamış olacaktı. Bu şekilde N tane kişinin okuduğu sayfa bilgisi
+
+List_1=[(2,5),(10,95), … ,(m,n) ] ile veriliyor.
+
+A.)    Bu listeyi random olarak üreten fonksiyonu yazınız. Kişi sayısı ( default değer 5,) ve kitabın sayfa sayısı ( default değer 250 ) fonksiyona parametre olarak gönderilmelidir. 
+
+B.)    En çok okunan sayfayı bulunuz.
+
+C.)    Bu listede öyle k tane kişiden oluşan öyle bir grup vardır ki bunların ortak okuduğu sayfa yoktur ve birleşimi okunan sayfa sayısı olarak maksimumdur. Bu k kişiden oluşan grubu bulunuz. ( Brute Force yöntemi kullanmayınız)
+
+D.)    Brute Force yöntemi nedir? Yukarıdaki C seçeneğini brute force yöntemi ile bulunuz.

@@ -1,0 +1,7 @@
+1.a) satır(m) sütün(n) sayısını parametre olarak alıp, her bir elemanı bir harf olan mxn lik iki boyutlu matris oluşturup ve bunu return eden fonksiyon yazınız. Elemanlar random olarak belirlenecektir.
+
+1.b) satır, sutun ,myword,orientation olarak dört parametre alıp 1.a da oluşturulan matrise satır-sutun ile belirtilen hücreden itibaren belirtilen yönde(orientation) my_word u harf harf aktaran/yazan bir fonksiyon yazınız. orientation bir enum type olup değerleri 0,1,2,3 ve anlamları 0: soldan sağa, 1: sağdan sola 2: aşağıdan yukarıya 3: yukarıdan aşağıya dır. 
+
+1.c) Elemanları harflerden oluşan bir matrisde ->( soldan sağa) ,<- (soldan sağa ) yönlerinde uzunluğu 10 veya daha fazla olan bütün palindromları ( palindrom: tersten okunuşu ile aynı olan kelime; mum,kapak,nazan, yapay … )  bulan bir fonksiyon yazınız.
+
+1.d) a,b,c seçeneklerini test eden bir fonksiyon yazınız.

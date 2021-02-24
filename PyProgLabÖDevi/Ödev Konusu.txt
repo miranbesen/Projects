@@ -1,1 +1,0 @@
-10 txt dosyasındaki kelimelerin hepsinin histogramını bulup kullanıcıdan bir input alıp en son inputa ulaşıp ondan sonraki en cok tekrar eden kelimeyi ekrana bastırmaya calısıyoruz.

@@ -1,1 +1,0 @@
-Calisanlarin ayrilis aylarina göre histogram olusturup, medyan ve ortalama degerini bulup output_dir_name klasorunun icine txt olarak yazdiriyoruz.

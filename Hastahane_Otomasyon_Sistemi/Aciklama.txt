@@ -1,1 +1,0 @@
-txt dosyası yardımıyla hastane kaydını tutan ve bu kayıtlar üzerinde silme, güncelleme ve listeleme işlemi yapmaya yarayan program kodu.

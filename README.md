@@ -1,2 +1,2 @@
 # DosyaHalindeProje
-Projelerin acıklamalarıyla beraber atilmis hali
+Arayüzü olmayan küçük projeler
